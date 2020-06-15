@@ -1,0 +1,4 @@
+Para correr la app necesita visualcode(plugins del lenguaje dart y flutter) y un móvil o simulador movil.
+1. Conecte su móvil en modo depuracion.
+2. Mantenga presionado ctrl+shift+P y busque con flutter:select device, seleccione su dispositivo. 
+3. Abra  las carpeta del proyecto, en lib>src>pages abra cualquier archivo .dart y presione f5 y comenzará a instalar la apk en el móvil.
